@@ -1,5 +1,7 @@
 # upload project to gitHub using git
 
+* you need to have repo url, to get it create new repo
+
 The Steps:
 
 1. git init
