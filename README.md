@@ -1,6 +1,6 @@
 # upload project to gitHub using git
 
--step by step:
+The Steps:
 
 1. git init
 
@@ -15,6 +15,6 @@
 6. git push -u origin main
 
   
-#check the Video Tutorial
+check the Video Tutorial
   
 -https://youtu.be/j-ProX2UAqU
