@@ -2,19 +2,19 @@
 
 -step by step:
 
--git init
+1. git init
 
--git add <File Name>
+2. git add <File Name>
   
--git commit -m "type any comment"
+3. git commit -m "type any comment"
   
--git branch -M main
+4. git branch -M main
   
--git remote add origin https://github.com/"YourGitHubUserName"/"RepoName"
+5. git remote add origin https://github.com/"YourGitHubUserName"/"RepoName" <- this just example
   
--git push -u origin main
+6. git push -u origin main
 
   
--check the Video Tutorial
+#check the Video Tutorial
   
 -https://youtu.be/j-ProX2UAqU
