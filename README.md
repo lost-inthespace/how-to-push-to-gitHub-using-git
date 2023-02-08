@@ -1,4 +1,4 @@
-# how-to-push-to-gitHub-using-git
+#upload project to gitHub using git
 step by step:
 git init
 git add <File Name>
